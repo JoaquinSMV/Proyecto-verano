@@ -1,0 +1,12 @@
+# Visual Studio - archivos generados que NO se suben
+bin/
+obj/
+.vs/
+*.user
+
+# PHP
+vendor/
+
+# Sistema
+Thumbs.db
+.DS_Store
